@@ -37,7 +37,8 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 * MINOR version when there are binary incompatible changes, and
 * PATCH version when new functionality or bug fixes are backwards compatible.
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ### Documentation
 
  * [GitHub Wiki](https://github.com/Netflix/servo/wiki)
